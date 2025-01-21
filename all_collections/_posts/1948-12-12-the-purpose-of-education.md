@@ -3,6 +3,7 @@ layout: post
 title: 250105 [FANTASY-LOG] KARI LOG
 date: 2024-01-06
 categories: [FANTASY BOYS, Hikari, Eng Sub]
+youtubeId: 83jmNxV8hfs
 ---
 
 [X](https://x.com/neokjun/status/1875944857690349794)

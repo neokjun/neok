@@ -10,4 +10,6 @@ youtubeId: 83jmNxV8hfs
 
 {% include youtubePlayer.html id=page.83jmNxV8hfs %}
 
-Please do not repost, reupload or edit. English Subtitles are just for reference.
+Please do not repost, reupload or edit. 
+
+English Subtitles are just for reference.

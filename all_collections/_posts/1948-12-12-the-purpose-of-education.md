@@ -7,18 +7,6 @@ categories: [FANTASY BOYS, Hikari, Eng Sub]
 
 [X](https://x.com/neokjun/status/1875944857690349794)
 
-<!DOCTYPE html>
-<html>
-<body>
-  
-  
-  <iframe src="https://drive.google.com/file/d/1acVKGbdtyhYhCbo2761tAPW7DhsWr5nL/preview" width="640" height="480" allow="autoplay"></iframe>
-  
-  <!--allow full screen add tag -->
-  
-<iframe allowfullscreen="allowfullscreen" src="your_page_url/preview" ></iframe>
-
-</body>
-</html>=
+{% include youtubePlayer.html id=page.83jmNxV8hfs %}
 
 Please do not repost, reupload or edit. English Subtitles are just for reference.
